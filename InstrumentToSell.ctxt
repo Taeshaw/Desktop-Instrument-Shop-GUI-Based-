@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=InstrumentToSell
+comment0.text=\r\n\ class\ InstrumentToSell\ is\ one\ of\ child\ class\ of\ course\ class\ which\ is\ parent\ class\r\n\r\n\ @author\ (Tesha\ Shree\ Shrestha)\r\n\ @version\ (2022/03/10)\r\n
+comment1.params=InstrumentName\ Price
+comment1.target=InstrumentToSell(java.lang.String,\ float)
+comment1.text=\r\n\ the\ constructor\ accepts\ four\ parameters\ and\ value\ are\r\n\ assigning\ respectively,\r\n
+comment10.params=CustomerName\ CustomerMobileNumber\ CustomerPAN_No\ SellDate\ DiscountPercentage
+comment10.target=void\ InstrumentSell(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ float)
+comment11.params=
+comment11.target=void\ display()
+comment2.params=
+comment2.target=float\ getPrice()
+comment3.params=
+comment3.target=java.lang.String\ getSellDate()
+comment4.params=
+comment4.target=float\ getDiscountPercentage()
+comment5.params=
+comment5.target=boolean\ getIsSold()
+comment6.params=Price
+comment6.target=void\ setPrice(float)
+comment7.params=SellDate
+comment7.target=void\ setSellDate(java.lang.String)
+comment8.params=DiscountPercentage
+comment8.target=void\ setDiscountPercentage(float)
+comment9.params=IsSold
+comment9.target=void\ setIsSold(boolean)
+numComments=12
